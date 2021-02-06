@@ -1,0 +1,13 @@
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csprojAssemblyReference.cache
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfoInputs.cache
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfo.cs
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CoreCompileInputs.cache
+C:\Users\nlych\source\repos\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.exe
+C:\Users\nlych\source\repos\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.deps.json
+C:\Users\nlych\source\repos\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.json
+C:\Users\nlych\source\repos\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.dev.json
+C:\Users\nlych\source\repos\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.dll
+C:\Users\nlych\source\repos\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.pdb
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.dll
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.pdb
+C:\Users\nlych\source\repos\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.genruntimeconfig.cache
